@@ -25,8 +25,8 @@ ribbon:
   ConnectTimeout: 1000
   ReadTimeout: 1000
 
-    
-management:
+
+management: 
   endpoints:
     web:
       exposure:
