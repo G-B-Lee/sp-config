@@ -24,10 +24,3 @@ ribbon:
   MaxAutoRetries: 0
   ConnectTimeout: 1000
   ReadTimeout: 1000
-
-
-management: 
-  endpoints:
-    web:
-      exposure:
-        include: hystrix.stream
